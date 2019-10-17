@@ -1,1 +1,5 @@
 /*StyleSheet*/
+/*StyleSheet*/
+body {background: #008B8B;}
+.tophead {height: 150px; text-align: center; font-family: 'Roboto Condensed', sans-serif;}
+.tophead h2 {color: #F08080; border-bottom: 1px solid #fff; width: auto;}
